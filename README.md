@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 👋 Hi, I'm Utk C
+# 👋 Hi, I'm Utkarsha Chauhan
 
 🎓 CS undergrad | 💡 Tech Enthusiast | 🛠️ Builder of Smart Educational Tools
 
